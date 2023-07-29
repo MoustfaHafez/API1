@@ -46,3 +46,4 @@ function DisplayData()
 
     document.getElementById('row').innerHTML=box;
 }
+
